@@ -1,9 +1,9 @@
 ## SLAM🌱 
 
-# Tistory
+### Tistory
 - Paper Review
 
-# Github
+### Github
 - Project
 - Practice
 
