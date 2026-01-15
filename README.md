@@ -1,8 +1,9 @@
-# Hi. I'm Kangsoonhyuk
+# Hi there, I'm Soonhyuk Kang 
 
+### 🎓 Education
+- **B.S. in Robotics**, Kwangwoon Univ. (Mar. 2020 ~ Feb. 2026 Expected)
 
-
-### B.S. : Kwangwoon UNI. Robotics (2020.03 ~ 2026.02(predict))
-
-### Research Interest : Autonomous Learning, RL, SLAM
-
+### 🔭 Research Interests
+- **Autonomous Driving**
+- **Reinforcement Learning (RL)**
+- **SLAM**
