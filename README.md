@@ -3,7 +3,7 @@
 ### 🎓 Education
 - **B.S. in Robotics**, Kwangwoon Univ. (Mar. 2020 ~ Feb. 2026 Expected)
 
-### 🔭 Research Interests
+### 🧐 Research Interests
 - **Autonomous Driving**
 - **Reinforcement Learning (RL)**
 - **SLAM**
