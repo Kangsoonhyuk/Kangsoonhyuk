@@ -1,9 +1,11 @@
 # Hi there, I'm Soonhyuk Kang 
 
 ### 🎓 Education
-- **B.S. in Robotics**, Kwangwoon Univ. (Mar. 2020 ~ Feb. 2026)
+- **M.S. in Cho Chun Shik Graduate School of Mobility**, KAIST.
+- **B.S. in Robotics**, Kwangwoon Univ. 
 
 ### 🧐 Research Interests
 - **Autonomous Driving**
-- **Reinforcement Learning (RL)**
+- **Reinforcement Learning**
+- **World Modle**
 - **SLAM**
