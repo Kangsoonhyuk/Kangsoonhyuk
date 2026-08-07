@@ -11,4 +11,4 @@
 
 ### 🧐 Research Interests
 - **Autonomous Driving**
-- **World Modle**
+- **World Model**
