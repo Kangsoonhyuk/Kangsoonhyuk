@@ -4,7 +4,7 @@
 <br>
 
 ### 🎓 Education
-- **M.S. in Cho Chun Shik Graduate School of Mobility**, KAIST. (Sep, 2026 - Present)
+- **M.S. in CCS Graduate School of Mobility**, KAIST. (Sep, 2026 - Present)
 - **B.S. in Robotics**, Kwangwoon Univ. (Mar. 2020 – Feb. 2026)
 
 <br>
